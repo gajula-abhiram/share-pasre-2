@@ -4,7 +4,7 @@
   <a href=""> 
   </a>
 
-  <h2 align="center">SharePurse</h2>
+  <h2 align="center">ShareParse</h2>
 
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS). 
